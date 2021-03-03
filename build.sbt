@@ -70,6 +70,3 @@ shellPrompt in ThisBuild := { state => "sbt:" + Project.extract(state).currentRe
 
 // Fork a new JVM for 'run' and 'test:run', to avoid JavaFX double initialization problems
 fork := true
-
-
-    
