@@ -26,7 +26,7 @@ resolvers ++= Seq(
 libraryDependencies ++= Seq (
 
   "org.bytedeco" % "javacv" % "1.3.2",
-  "org.bytedeco" % "javacpp" % "1.3.2",
+  "org.bytedeco" % "javacpp" % "1.5.4",
   "org.bytedeco.javacpp-presets" % "flandmark" % "1.07-1.4.4" classifier "",
   "org.bytedeco.javacpp-presets" % "flandmark" % "1.07-1.4.4" classifier platform,
   "org.bytedeco.javacpp-presets" % "opencv" % "3.4.3-1.4.3" classifier "",
