@@ -11,4 +11,3 @@ classpathTypes += "maven-plugin"
 libraryDependencies += "org.bytedeco" % "javacpp" % "1.5.4"
 
 addSbtPlugin("org.scalariform" % "sbt-scalariform" % "1.6.0")
-
