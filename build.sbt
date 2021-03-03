@@ -53,7 +53,7 @@ libraryDependencies ++= Seq (
   "com.typesafe.akka" %% "akka-stream" % "2.6.13",
   "com.typesafe.akka" %% "akka-stream-testkit" % "2.6.13",
   "com.typesafe.akka" %% "akka-testkit" % "2.5.3",
-  "com.typesafe.akka" %% "akka-typed" % "2.5.3",
+  "com.typesafe.akka" %% "akka-typed" % "2.5.8",
   "com.typesafe.akka" %% "akka-contrib" % "2.5.32"
 )
 
