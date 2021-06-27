@@ -2,7 +2,7 @@ name := "OpenCV-App"
 
 version := "1.0"
 
-scalaVersion := "2.13.5"
+scalaVersion := "2.13.6"
 
 
 // Platform classifier for native library dependencies
